@@ -1,0 +1,6 @@
+[submodule "submodules/tvip-common"]
+	path = submodules/tvip-common
+	url = git@github.com:kkurenkov/tvip-common.git
+[submodule "submodules/fifo"]
+	path = submodules/fifo
+	url = git@github.com:olofk/fifo.git
